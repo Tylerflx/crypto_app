@@ -20,12 +20,12 @@ An web app for crypto lovers check out latest news and prices
 
 ## Installation
 
-Will update soon
-
 ```bash
-  npm install my-project
-  cd my-project
-  npm run
+  cd crypto_app/client
+   > npm install
+  cd crypto_app/server
+   > npm install
+   > npm run dev
 ```
 
 ## Tech Stack
